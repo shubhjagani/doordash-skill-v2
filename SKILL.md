@@ -1,3 +1,8 @@
+---
+name: doordash
+description: Interact with DoorDash Drive API for delivery management.
+---
+
 # DoorDash Skill
 
 This skill provides integration with the DoorDash Drive API for delivery management.
